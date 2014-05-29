@@ -1,0 +1,65 @@
+/* CSS Document */
+
+/*-------------------------------------------
+
+      Media Queries
+-------------------------------------------*/
+@media screen and (min-width: 850px) and (max-width: 1016px) {
+		}
+@media screen and (min-width: 851px) {
+
+    }
+@media screen and (min-width: 651px) and (max-width: 850px) {
+
+}
+@media screen and (min-width: 401px) and (max-width: 650px) {
+
+
+}
+@media screen and (max-width: 400px) {
+
+    }
+@media screen and (min-width: 651px) {
+ }
+@media screen and (max-width: 850px) {
+
+}
+@media screen and (max-width: 650px) {
+
+
+}
+
+/***** IQ*****/
+
+@media screen and (max-width: 768px) {
+
+}
+@media screen and (max-width: 991px) {
+
+}
+@media screen and (max-width: 767px) {
+
+}
+@media screen and (max-width: 543px) {
+
+}
+@media screen and (max-width: 991px) {
+
+}
+@media screen and (max-width: 1199px) {
+
+}
+@media screen and (max-width: 650px) {
+
+}
+@media screen and (max-width: 400px) {
+
+
+
+}
+/* For Retina displays */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+
+  }
+    
+}
